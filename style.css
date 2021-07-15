@@ -7,7 +7,7 @@ body{
 .flexible-container{
  
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 99px;
 
 }
 .half-width{
@@ -87,12 +87,9 @@ padding: 4px;
 .text-style{
     margin: 4px;
 }
-.recipe-name .text-style{
-    font-size: 50px ;
-}
  .another-container{
 
-width: 895px;
+width: 894px;
 background-color: white;
 height:250px;
 margin-left: 62px;
